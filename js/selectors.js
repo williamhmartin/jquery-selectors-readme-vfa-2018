@@ -2,3 +2,6 @@
 function paragraphSelector() {
   $('p')
 }
+function Selector() {
+  $('p')
+}
